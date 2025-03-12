@@ -1,4 +1,4 @@
 function saludando(){
-    document.writeln('HOLA ADSO 2928088')
+    document.writeln('HOLA A TODOS')
 }
 saludando();
